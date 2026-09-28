@@ -1,6 +1,6 @@
 <img width="488" height="157" alt="image" src="https://github.com/user-attachments/assets/9687512f-3b36-46c6-aacc-45c480cae33b" />
 
-# 🗄️ Actividad Formativa – Conectando aplicaciones Java con bases de datos mediante JDBC
+# 🗄️ Actividad Formativa 7 – Conectando aplicaciones Java con bases de datos mediante JDBC
 
 ---
 
